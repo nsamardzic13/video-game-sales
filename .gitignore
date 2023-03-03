@@ -1,0 +1,8 @@
+# venv
+.venv/
+
+# credentials
+./dbCredentials.json
+
+# pycache
+__pycache__/
